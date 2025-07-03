@@ -8,21 +8,30 @@
 
 ---
 
-🚀 Sobre mim
-
-```javascript
-const rogerCastro = {
+javascriptconst rogerCastro = {
     nome: "Roger Castro",
-    idade: "Em constante evolução",
-    localização: "Brasil 🇧🇷",
+    idade: 25, // ou sua idade real
+    localização: "Pelotas, RS - Brasil 🇧🇷",
     foco: ["Frontend", "Backend", "Mobile"],
     aprendendo: ["React", "Node.js", "Python", "DevOps"],
-    hobbies: ["Programação", "Tecnologia", "Criação de conteúdo"],
-    objetivo: "Criar soluções que impactem positivamente a vida das pessoas"
+    hobbies: ["Programação", "Tecnologia", "Criação de conteúdo", "Games"],
+    objetivo: "Criar soluções que impactem positivamente a vida das pessoas",
+    experiencia: "2+ anos", // ajuste conforme sua experiência
+    linguagens: ["JavaScript", "Python", "HTML", "CSS"],
+    frameworks: ["React", "Node.js", "Express"],
+    databases: ["MySQL", "MongoDB"],
+    ferramentas: ["Git", "GitHub", "VS Code", "Figma"],
+    softSkills: ["Trabalho em equipe", "Comunicação", "Resolução de problemas"],
+    disponivel: true, // se está buscando oportunidades
+    contato: "pedrocastro.roger23@gmail.com"
 };
-```
 
----
+// Função para conhecer mais sobre mim
+function conhecerMais() {
+    return "Vamos conversar? Entre em contato! 🚀";
+}
+
+console.log(rogerCastro.objetivo);
 
 📊 Estatísticas do GitHub
 
