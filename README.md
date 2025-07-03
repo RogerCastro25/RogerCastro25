@@ -135,6 +135,8 @@ const rogerCastro = {
   **"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
+</div>
   
 </div>
 
