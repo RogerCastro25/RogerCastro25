@@ -36,7 +36,6 @@ const rogerCastro = {
 ---
 
  🛠️ Tecnologias & Ferramentas
-
 <div align="center">
   
    Frontend
@@ -62,10 +61,9 @@ const rogerCastro = {
   
 </div>
 
----
-
+```
  🐍 Contribution Snake
-
+```
 <div align="center">
   
   ![Snake animation](https://github.com/RogerCAstro25/RogerCAstro25/blob/output/github-contribution-grid-snake.svg)
@@ -84,7 +82,7 @@ const rogerCastro = {
 
 ---
 
-## 📈 Métricas Detalhadas
+ 📈 Métricas Detalhadas
 
 <div align="center">
   
@@ -94,7 +92,7 @@ const rogerCastro = {
 
 ---
 
-## 🌐 Conecte-se comigo
+ 🌐 Conecte-se comigo
 
 <div align="center">
   
@@ -138,7 +136,7 @@ const rogerCastro = {
   
 </div>
 
----
-![Snake animation](https://github.com/RogerCAstro25/RogerCAstro25/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
