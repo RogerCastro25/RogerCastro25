@@ -1,5 +1,4 @@
-```markdown
-# 👋 Olá! Eu sou o Roger Castro
+ 👋 Olá! Eu sou o Roger Castro
 
 <div align="center">
 
@@ -8,8 +7,7 @@
 </div>
 
 ---
-
-## 🚀 Sobre mim
+ 🚀 Sobre mim
 
 ```javascript
 const rogerCastro = {
@@ -24,8 +22,7 @@ const rogerCastro = {
 ```
 
 ---
-
-## 📊 Estatísticas do GitHub
+ 📊 Estatísticas do GitHub
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RogerCAstro25&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roger Castro github stats" />
@@ -37,28 +34,26 @@ const rogerCastro = {
 </div>
 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
+ 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### Frontend  
+Frontend  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
-### Backend  
+Backend  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
-
-### Banco de Dados  
+ Banco de Dados  
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-### Ferramentas  
+Ferramentas  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
@@ -67,7 +62,7 @@ const rogerCastro = {
 
 ---
 
-## 🐍 Contribution Snake
+ 🐍 Contribution Snake
 
 <div align="center">
 
@@ -89,7 +84,7 @@ const rogerCastro = {
 
 ---
 
-## 📈 Métricas Detalhadas
+ 📈 Métricas Detalhadas
 
 <div align="center">
 
@@ -98,8 +93,7 @@ const rogerCastro = {
 </div>
 
 ---
-
-## 🌐 Conecte-se comigo
+🌐 Conecte-se comigo
 
 <div align="center">
 
@@ -113,7 +107,7 @@ const rogerCastro = {
 
 ---
 
-## 💡 Projetos em Destaque
+💡 Projetos em Destaque
 
 <div align="center">
 
@@ -124,7 +118,7 @@ const rogerCastro = {
 
 ---
 
-## 📊 Estatísticas Semanais
+📊 Estatísticas Semanais
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -133,7 +127,7 @@ const rogerCastro = {
 
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil!
+💙 Obrigado por visitar meu perfil!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RogerCAstro25&color=00bfbf&style=flat-square&label=Visitantes)
 
@@ -143,7 +137,4 @@ const rogerCastro = {
 
 </div>
 
----
 ```
-
-S
