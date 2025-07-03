@@ -139,6 +139,6 @@ const rogerCastro = {
 </div>
 
 ---
-
+![Snake animation](https://github.com/RogerCAstro25/RogerCAstro25/blob/output/github-contribution-grid-snake-dark.svg)
 
 
