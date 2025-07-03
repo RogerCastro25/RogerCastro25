@@ -66,7 +66,7 @@ const rogerCastro = {
 
 <div align="center">
 
-![Snake animation](https://github.com/RogerCAstro25/RogerCAstro25/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/RogerCastro25/RogerCastro25/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p><em>🐍 Esta cobrinha come minhas contribuições! Ela é atualizada automaticamente a cada 12 horas.</em></p>
 
@@ -78,7 +78,7 @@ const rogerCastro = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RogerCAstro25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RogerCastro25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -86,7 +86,7 @@ const rogerCastro = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RogerCAstro25&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RogerCastro25&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -110,7 +110,7 @@ const rogerCastro = {
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=nome-do-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCAstro25/nome-do-projeto)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCAstro25/outro-projeto)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/outro-projeto)
 
 </div>
 
@@ -127,7 +127,7 @@ const rogerCastro = {
 
 💙 Obrigado por visitar meu perfil!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RogerCAstro25&color=00bfbf&style=flat-square&label=Visitantes)
+![Visitor Count](https://komarev.com/ghpvc/?username=RogerCastro25&color=00bfbf&style=flat-square&label=Visitantes)
 
 **"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."**
 
