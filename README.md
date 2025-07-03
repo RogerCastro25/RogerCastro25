@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Roger Castro
+# 👋 Olá! Eu sou o Roger Castro
 
 <div align="center">
   
@@ -6,9 +6,11 @@
 
 </div>
 
- 🚀 Sobre mim
+---
 
-javascript
+## 🚀 Sobre mim
+
+```javascript
 const rogerCastro = {
     nome: "Roger Castro",
     idade: "Em constante evolução",
@@ -18,10 +20,11 @@ const rogerCastro = {
     hobbies: ["Programação", "Tecnologia", "Criação de conteúdo"],
     objetivo: "Criar soluções que impactem positivamente a vida das pessoas"
 };
+```
 
 ---
 
- 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RogerCAstro25&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roger Castro github stats" /> 
@@ -35,44 +38,50 @@ const rogerCastro = {
 
 ---
 
- 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
+
 <div align="center">
   
-   Frontend
+  ### Frontend
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   
-   Backend
+  ### Backend
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
   
-   Banco de Dados
+  ### Banco de Dados
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   
-   Ferramentas
+  ### Ferramentas
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
   
 </div>
 
-```
- 🐍 Contribution Snake
-```
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
   
-  ![Snake animation](https://github.com/RogerCAstro25/RogerCAstro25/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RogerCAstro25/RogerCAstro25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RogerCAstro25/RogerCAstro25/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RogerCAstro25/RogerCAstro25/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
 ---
 
- 🏆 Conquistas
+## 🏆 Conquistas
 
 <div align="center">
   
@@ -82,7 +91,7 @@ const rogerCastro = {
 
 ---
 
- 📈 Métricas Detalhadas
+## 📈 Métricas Detalhadas
 
 <div align="center">
   
@@ -92,7 +101,7 @@ const rogerCastro = {
 
 ---
 
- 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 <div align="center">
   
@@ -106,7 +115,7 @@ const rogerCastro = {
 
 ---
 
- 💡 Projetos em Destaque
+## 💡 Projetos em Destaque
 
 <div align="center">
   
@@ -117,26 +126,78 @@ const rogerCastro = {
 
 ---
 
- 📊 Estatísticas Semanais
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
   
-  💙 Obrigado por visitar meu perfil!
+  ### 💙 Obrigado por visitar meu perfil!
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=RogerCAstro25&color=00bfbf&style=flat-square&label=Visitantes)
   
   **"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."**
   
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   
 </div>
 
+---
+
+## 🎯 CONFIGURAÇÃO DA COBRINHA QUE FUNCIONA 100%
+
+### Passo 1: Configurar Permissões
+1. Vá para Settings → Actions → General
+2. Em "Workflow permissions", marque "Read and write permissions"
+3. Salve
+
+### Passo 2: Criar o arquivo `.github/workflows/snake.yml`
+
+```yaml
+name: Generate snake animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
+                   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 
+```
+```
 
+**Alternativa 2 - Sem Cobrinha (README ainda fica lindo):**
+Simplesmente remova a seção da cobrinha e mantenha o resto!
 
+**Alternativa 3 - Usar outro gerador:**
+```markdown
+![Snake animation](https://github.com/RogerCAstro25/RogerCAstro25/raw/output/snake.svg)
+```
+
+### ⚠️ DICAS IMPORTANTES:
+- Certifique-se que o repositório se chama exatamente `RogerCAstro25` (mesmo nome do usuário)
+- Verifique se está na branch `main` ou `master`
+- Aguarde alguns minutos após executar o workflow
+- Se nada funcionar, o README já está lindo sem a cobrinha!
