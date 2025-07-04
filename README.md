@@ -92,7 +92,7 @@ const rogerCastro = {
 ```
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=nome-do-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)]([[https://github.com/RogerCAstro25/nome-do-projeto](https://rogercastro25.github.io/portf-lio-pedro-casto-/)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=nome-do-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)]([[https://github.com/RogerCAstro25/nome-do-projeto]
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/outro-projeto)
 
 </div>
