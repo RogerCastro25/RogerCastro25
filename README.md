@@ -96,8 +96,8 @@ const rogerCastro = {
 <table>
   <tr>
     <td>
-      <a href="https://github.com/RogerCastro25/AppGameFonol-gico-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=AppGameFonol-gico-&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true" />
+      <a href="https://github.com/RogerCastro25/AppGameFonol-gico">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=AppGameFonol-gico&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true" />
       </a>
     </td>
     <td>
@@ -107,6 +107,7 @@ const rogerCastro = {
     </td>
   </tr>
 </table>
+
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=portf-lio-pedro-casto-&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/portf-lio-pedro-casto-)
