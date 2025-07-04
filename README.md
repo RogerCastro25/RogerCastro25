@@ -124,9 +124,9 @@ const rogerCastro = {
 ---
 
 <div align="center">
-```
+
 💙 Obrigado por visitar meu perfil!
-```
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=RogerCastro25&color=00bfbf&style=flat-square&label=Visitantes)
 
 **"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."**
