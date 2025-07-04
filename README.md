@@ -93,6 +93,8 @@ const rogerCastro = {
 ```
 <div align="center">
 
+<div align="center">
+
 <table>
   <tr>
     <td>
@@ -105,14 +107,16 @@ const rogerCastro = {
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=portf-lio-pedro-casto-&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/RogerCastro25/outro-projeto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true" />
+      </a>
+    </td>
   </tr>
 </table>
 
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=portf-lio-pedro-casto-&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/portf-lio-pedro-casto-)
-
 </div>
+
 
 ```
 📊 Estatísticas Semanais
