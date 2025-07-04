@@ -61,9 +61,9 @@ const rogerCastro = {
 </div>
 
 ---
-
+```
  🐍 Contribution Snake
-
+```
 <div align="center">
 
 ![Snake animation](https://github.com/RogerCastro25/RogerCastro25/blob/output/github-contribution-grid-snake-dark.svg)
@@ -73,9 +73,9 @@ const rogerCastro = {
 </div>
 
 ---
-
-## 🏆 Conquistas
-
+```
+🏆 Conquistas
+```
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RogerCastro25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -104,9 +104,9 @@ const rogerCastro = {
 </div>
 
 ---
-
+```
 💡 Projetos em Destaque
-
+```
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=nome-do-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCAstro25/nome-do-projeto)
@@ -115,18 +115,18 @@ const rogerCastro = {
 </div>
 
 ---
-
+```
 📊 Estatísticas Semanais
-
+```
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
 <div align="center">
-
+```
 💙 Obrigado por visitar meu perfil!
-
+```
 ![Visitor Count](https://komarev.com/ghpvc/?username=RogerCastro25&color=00bfbf&style=flat-square&label=Visitantes)
 
 **"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."**
