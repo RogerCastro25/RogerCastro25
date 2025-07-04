@@ -108,8 +108,8 @@ const rogerCastro = {
       </a>
     </td>
     <td>
-      <a href="https://github.com/RogerCastro25/outro-projeto">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true" />
+      <a href="https://github.com/RogerCastro25/Vers-oComAppRecFrotm-vel3-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=Vers-oComAppRecFrotm-vel3-&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true" />
       </a>
     </td>
   </tr>
