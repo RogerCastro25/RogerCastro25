@@ -79,6 +79,9 @@ const rogerCastro = {
 
 <div align="center">
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCastro25&repo=portfolio-pedro&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/portfolio-pedro)
+
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pedrocastro2013?si=NHASLfLqbyvY3P3v)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roger.castro.23?igsh=cmFjdzNtdTAzZ21r&utm_source=qr)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pedro_castro23)
