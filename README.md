@@ -91,8 +91,8 @@ const rogerCastro = {
 💡 Projetos em Destaque
 ```
 <div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app;api;pin/?username=RogerCAstro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/outro-projeto)
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/outro-projeto)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerCAstro25&repo=outro-projeto&bg_color=0d1117&color=00bfbf&line_height=27&title_color=00bfbf&hide_border=true)](https://github.com/RogerCastro25/outro-projeto)
 
 </div>
