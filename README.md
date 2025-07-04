@@ -1,7 +1,5 @@
 👋 Olá! Eu sou o Roger Castro
-
 <div align="center">
-
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+👋;Desenvolvedor+Frontend+e+Backend;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+novos+desafios!)
 
 </div>
