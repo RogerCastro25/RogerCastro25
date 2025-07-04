@@ -5,9 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+👋;Desenvolvedor+Frontend+e+Backend;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+novos+desafios!)
 
 </div>
-
----
- 🚀 Sobre mim
+🚀 Sobre mim
 
 ```javascript
 const rogerCastro = {
@@ -20,21 +18,14 @@ const rogerCastro = {
     objetivo: "Criar soluções que impactem positivamente a vida das pessoas"
 };
 ```
-
----
-
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RogerCAstro25&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roger Castro github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCAstro25&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RogerCAstro25&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roger Castro github stats" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCAstro25&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RogerCAstro25&custom_title=Gráfico%20de%20Contribuições&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area_color=0d1117&title_color=00bfbf&area=true&hide_border=true" />
 </div>
-
----
-
 
 <div align="center">
 
@@ -60,19 +51,16 @@ const rogerCastro = {
 
 </div>
 
----
 ```
- 🐍 Contribution Snake
+🐍 Contribution Snake
 ```
 <div align="center">
 
 ![Snake animation](https://github.com/RogerCastro25/RogerCastro25/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p><em>🐍 Esta cobrinha come minhas contribuições! Ela é atualizada automaticamente a cada 12 horas.</em></p>
 
 </div>
 
----
 ```
 🏆 Conquistas
 ```
@@ -82,7 +70,6 @@ const rogerCastro = {
 
 </div>
 
----
 
 <div align="center">
 
@@ -90,7 +77,6 @@ const rogerCastro = {
 
 </div>
 
----
 🌐 Conecte-se comigo
 
 <div align="center">
@@ -103,7 +89,6 @@ const rogerCastro = {
 
 </div>
 
----
 ```
 💡 Projetos em Destaque
 ```
@@ -114,14 +99,11 @@ const rogerCastro = {
 
 </div>
 
----
 ```
 📊 Estatísticas Semanais
 ```
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
 
 <div align="center">
 
@@ -129,7 +111,7 @@ const rogerCastro = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RogerCastro25&color=00bfbf&style=flat-square&label=Visitantes)
 
-**"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."**
+"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
